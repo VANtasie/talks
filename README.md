@@ -14,6 +14,7 @@ Bitte einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 ### November 2017
 
 - [x] [Entwicklung mit der Hololens](https://github.com/web-and-wine/talks/files/1474004/hololens_presentation.pdf) (von [@armingratzl](https://github.com/armingratzl))
+- [x] [War for talents. Employer / Employee Branding in der digitalen Welt] (https://docs.google.com/presentation/d/1QttK7DhtA4ccaprqgWitRifP886Jhbw1T-wa_Tz2RTI/edit?usp=sharing) (von Sascha Lechner)
 
 ### Oktober 2017
 
